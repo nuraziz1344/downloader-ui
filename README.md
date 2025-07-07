@@ -2,6 +2,14 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Plugins
+
+- TailwindCSS
+- NuxtUI
+- VuetifyJS
+- NuxtIcon
+- NuxtImage
+
 ## Setup
 
 Make sure to install dependencies:
