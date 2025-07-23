@@ -2,7 +2,7 @@
 
 Interface of [scraper-api](https://github.com/nuraziz1344/scraper-api)
 
-![NuxtJS Downloader UI](https://github.com/nuraziz1344/downloader-ui/raw/main/.github/images/index.jpg)
+![NuxtJS Downloader UI](https://github.com/nuraziz1344/downloader-ui/blob/master/.github/images/index.jpeg?raw=true)
 
 ## Features
 
