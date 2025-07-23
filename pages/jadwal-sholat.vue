@@ -1,0 +1,3 @@
+<template>
+    jadwal-sholat
+</template>
